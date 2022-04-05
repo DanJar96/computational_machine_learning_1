@@ -1,2 +1,2 @@
-# computational_machine_learning_1
-Code repository for the Computational Machine Learning 1 course
+# Computation Machine Learning 1 (CMLI)
+- Hi there! This repository contains all the code I've written as part of the [CMLI](https://events.barcelonagse.eu/live/files/3549-21d004-computational-machine-learning-i-1pdf) course as part of my [MSc in Data Science Methodology](https://bse.eu/study/masters-programs/data-science-methodology/current-year).
